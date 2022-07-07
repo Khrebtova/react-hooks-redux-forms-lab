@@ -3,7 +3,7 @@ import BandsContainer from "./features/bands/BandsContainer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">      
       <BandsContainer />
     </div>
   );
